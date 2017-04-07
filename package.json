@@ -1,0 +1,29 @@
+{
+  "name": "soresu",
+  "version": "1.0.0",
+  "description": "Star Wars Video App",
+  "main": "node app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "bcryptjs": "*",
+    "cors": "*",
+    "jsonwebtoken": "*",
+    "body-parser": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamTh3Walrus/soresu.git"
+  },
+  "author": "Stephen Doe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamTh3Walrus/soresu/issues"
+  },
+  "homepage": "https://github.com/IamTh3Walrus/soresu#readme"
+}
