@@ -1,0 +1,15 @@
+@import "https://fonts.googleapis.com/css?family=Rancho&effect=fire-animation";
+h1 {
+    font-family: Rancho;
+    font-size: 100px;
+    margin: 40px 0;
+    text-align: center;
+}
+
+#secondText{
+  font-family: "Times New Roman", Georgia, Serif;
+  font-size: 70px;
+  margin: 40px 0;
+  text-align: center;
+  color: #32cd32;
+}
