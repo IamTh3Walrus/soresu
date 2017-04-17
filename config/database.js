@@ -1,5 +1,5 @@
+//database: 'mongodb://localhost:27017/soresu', //development
 module.exports = {
-  //database: 'mongodb://brad:brad@ds121190.mlab.com:21190/meanauthapp',   //production
-  database: 'mongodb://localhost:27017/soresu', //development
+  database: 'mongodb://StephenDoe:MoffTarkin@ds161960.mlab.com:61960/soresu', //production
   secret: 'yoursecret'
 }
