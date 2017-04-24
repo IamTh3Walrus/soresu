@@ -2,9 +2,10 @@
   "name": "soresu",
   "version": "1.0.0",
   "description": "Star Wars Lightsaber Forms",
-  "main": "node app",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
   },
   "dependencies": {
     "express": "*",
